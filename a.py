@@ -1,1 +1,1 @@
-print("와 이게 git push?")
+print("수정정")
